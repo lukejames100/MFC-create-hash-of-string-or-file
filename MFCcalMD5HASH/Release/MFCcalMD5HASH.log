@@ -1,0 +1,17 @@
+﻿生成启动时间为 2021/2/1 12:50:47。
+     1>项目“C:\Users\DELL\Documents\Visual Studio 2012\Projects\MFCcalMD5HASH\MFCcalMD5HASH\MFCcalMD5HASH.vcxproj”在节点 2 上(Build 个目标)。
+     1>ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D NDEBUG /l"0x0804" /IRelease\ /nologo /fo"Release\MFCcalMD5HASH.res" MFCcalMD5HASH.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\DELL\Documents\Visual Studio 2012\Projects\MFCcalMD5HASH\Release\MFCcalMD5HASH.exe" /INCREMENTAL:NO /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\DELL\Documents\Visual Studio 2012\Projects\MFCcalMD5HASH\Release\MFCcalMD5HASH.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\DELL\Documents\Visual Studio 2012\Projects\MFCcalMD5HASH\Release\MFCcalMD5HASH.lib" /MACHINE:X86 /SAFESEH Release\MFCcalMD5HASH.res
+         Release\MFCcalMD5HASH.obj
+         Release\MFCcalMD5HASHDlg.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         MFCcalMD5HASH.vcxproj -> C:\Users\DELL\Documents\Visual Studio 2012\Projects\MFCcalMD5HASH\Release\MFCcalMD5HASH.exe
+     1>已完成生成项目“C:\Users\DELL\Documents\Visual Studio 2012\Projects\MFCcalMD5HASH\MFCcalMD5HASH\MFCcalMD5HASH.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.09

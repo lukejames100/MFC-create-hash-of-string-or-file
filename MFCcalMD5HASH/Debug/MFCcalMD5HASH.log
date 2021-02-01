@@ -1,0 +1,16 @@
+﻿生成启动时间为 2019/6/17 1:34:54。
+     1>项目“C:\Users\feng\documents\visual studio 2012\Projects\MFCcalMD5HASH\MFCcalMD5HASH\MFCcalMD5HASH.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MFCcalMD5HASH.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt MFCcalMD5HASHDlg.cpp
+         MFCcalMD5HASHDlg.cpp
+       Link:
+         F:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\feng\documents\visual studio 2012\Projects\MFCcalMD5HASH\Debug\MFCcalMD5HASH.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"F:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\feng\documents\visual studio 2012\Projects\MFCcalMD5HASH\Debug\MFCcalMD5HASH.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\feng\documents\visual studio 2012\Projects\MFCcalMD5HASH\Debug\MFCcalMD5HASH.lib" /MACHINE:X86 Debug\MFCcalMD5HASH.res
+         Debug\MFCcalMD5HASH.obj
+         Debug\MFCcalMD5HASHDlg.obj
+         Debug\stdafx.obj
+         MFCcalMD5HASH.vcxproj -> C:\Users\feng\documents\visual studio 2012\Projects\MFCcalMD5HASH\Debug\MFCcalMD5HASH.exe
+     1>已完成生成项目“C:\Users\feng\documents\visual studio 2012\Projects\MFCcalMD5HASH\MFCcalMD5HASH\MFCcalMD5HASH.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.97
